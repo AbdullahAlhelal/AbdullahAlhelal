@@ -76,27 +76,27 @@ I'm a passionate **Back-End Developer** and **Desktop Application Developer** wi
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=us2ahmad&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=us2ahmad&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAlhelald&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlhelal&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophy Cabinet
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=us2ahmad&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbdullahAlhelal&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/us2ahmad/us2ahmad/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AbdullahAlhelal/AbdullahAlhelal/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 💬 Testimonials
 
-> "Ahmad is a detail-oriented developer with a knack for solving complex backend issues. Highly recommended!"  
+> "AbdullahAlhelal is a detail-oriented developer with a knack for solving complex backend issues. Highly recommended!"  
 > — Client Al-AqsaTech
 
 ---

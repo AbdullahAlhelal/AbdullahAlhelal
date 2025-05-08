@@ -20,7 +20,11 @@ I'm a passionate **Back-End Developer** and **Desktop Application Developer** wi
 - Version control and collaboration using **Git** and **TFS`
 
 🔍 I’m always exploring new technologies and best practices to deliver high-quality code and performance.
-
+- Single Responsibility Principle
+- Open/Closed Principle 
+- Liskov Substitution Principle
+- Interface Segregation Principle
+- Dependency Inversion Principle(Dependency Injection)
 ---
 
 

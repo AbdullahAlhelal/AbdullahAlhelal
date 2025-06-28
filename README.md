@@ -12,7 +12,7 @@
 I'm a passionate **Back-End Developer** and **Desktop Application Developer** with a strong focus on building reliable, scalable, and secure solutions.
 
 💻 I specialize in:
-- Server-side development using `ASP .Net`, `C#`, `C++`
+- Server-side development using `ASP.Net`, `C#`, `C++`
 - Developing desktop applications using `.NET`
 - Building enterprise-grade APIs with **ASP.NET**
 - Designing and optimizing databases with **SQL Server**, **MySQL**, and **Oracle**
